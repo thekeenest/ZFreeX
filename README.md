@@ -8,15 +8,13 @@
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,go,flask,fastapi,typescript,javascript,react,postgres,redis,gcp,docker,git,github,selenium&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,go,rust,flask,fastapi,typescript,javascript,react,postgres,redis,gcp,docker,git,github,selenium,linux,ubuntu,obsidian&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: SQL, LangChain, LangGraph, LangSmith for building AI agents, CI/CD pipelines.
-
+---
 <ul>
 <li>📊 My 10+ recent projects are available <a href="https://thekeenest.tech/?section=work">here</a>.</li>
 <li>👨‍💻 Learning <strong>big data infrastructure</strong>, <strong>distributed systems</strong>, as well as <strong>ML & DS</strong>.</li>
 <li>🎓 Getting Master's degree in <a href="https://dataschool.yandex.com/">Yandex Data School of Analysis</a>.</li>
 <li>📝 Check out my <a href="https://thekeenest.tech/resume">resume</a>.</li>
 </ul>
-
-
