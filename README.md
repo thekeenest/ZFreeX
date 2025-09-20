@@ -7,9 +7,8 @@
 
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,go,rust,flask,fastapi,typescript,javascript,react,postgres,redis,gcp,docker,git,github,selenium,linux,ubuntu,obsidian&theme=light)](https://skillicons.dev)
-
 <p><b>Also comfortable with</b>: SQL, LangChain, LangGraph, LangSmith for building AI agents, CI/CD pipelines.</p>
----
+
 <ul>
 <li>📊 My 10+ recent projects are available <a href="https://thekeenest.tech/?section=work">here</a>.</li>
 <li>👨‍💻 Learning <strong>big data infrastructure</strong>, <strong>distributed systems</strong>, as well as <strong>ML & DS</strong>.</li>
