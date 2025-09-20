@@ -2,9 +2,8 @@
 <p>I'm a software engineer, focusing on AI engineering, automations, complex infrastructure development and, certainly, classical web. Formerly working at <strong><a href="https://synoptic.com/">Synoptic</a></strong>. I am working on some side projects, running freelance business, and playing fingerstyle guitar. Based in 📍 Minsk, Belarus. </p>
 <p>
 <a href="https://thekeenest.tech">
-    <img alt="Static Badge" src="https://img.shields.io/badge/thekeenest.tech-website-blue?style=flat-square&logo=Firefox&link=https://thekeenest.tech">
-</a>
-<a href="https://linkedin.com/in/thekeenest">
+<img alt="Static Badge" src="https://img.shields.io/badge/thekeenest.tech-website-blue?style=flat-square&logo=Firefox&link=https://thekeenest.tech" alt="website">
+</a><a href="https://linkedin.com/in/thekeenest">
     <img alt="Static Badge" src="https://img.shields.io/badge/%40thekeenest-linkedin-687FE5?style=flat-square&labelColor=FEEBF6&link=https://linkedin.com/in/thekeenest">
 </a>
 <a href="https://instagram.com/thekeenest_">
