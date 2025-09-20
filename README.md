@@ -6,11 +6,9 @@
 </p>
 
 ## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,go,rust,flask,fastapi,typescript,javascript,react,postgres,redis,gcp,docker,git,github,selenium,linux,ubuntu,obsidian&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL, LangChain, LangGraph, LangSmith for building AI agents, CI/CD pipelines.
+<p><b>Also comfortable with</b>: SQL, LangChain, LangGraph, LangSmith for building AI agents, CI/CD pipelines.</p>
 ---
 <ul>
 <li>📊 My 10+ recent projects are available <a href="https://thekeenest.tech/?section=work">here</a>.</li>
