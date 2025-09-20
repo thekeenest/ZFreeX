@@ -6,7 +6,7 @@
 </p>
 
 ## Skill stack
-[![Skill stack](https://skillicons.dev/icons?i=python,cpp,go,rust,flask,fastapi,typescript,javascript,react,postgres,redis,gcp,docker,git,github,selenium,linux,ubuntu,obsidian&theme=light)](https://skillicons.dev)
+[![Skill stack](https://skillicons.dev/icons?i=python,cpp,go,rust,flask,fastapi,typescript,javascript,react,postgres,redis,gcp,docker,git,github,selenium,linux,ubuntu,obsidian&theme=dark)](https://skillicons.dev)
 <p><b>Also comfortable with</b>: SQL, LangChain, LangGraph, LangSmith for building AI agents, CI/CD pipelines.</p>
 
 <ul>
